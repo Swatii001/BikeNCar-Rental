@@ -8,9 +8,7 @@ The Car Rental project is a comprehensive MERN stack web application tailored fo
 - Booking management system for efficient rental services.
 - Admin dashboard with specialized features for company management.
 
-## Live Link
 
-[Click here to visit Car Rental](<https://car-rental-p1wz.vercel.app/>)
 
 ## How to Use
 
